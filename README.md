@@ -34,16 +34,16 @@ Remote
 
  
 ### Data Analyst Intern
-*Idaho National Laboratories*
-May 2025 - July 2025
-Idaho Falls, ID
+*Idaho National Laboratories*n/
+May 2025 - July 2025 n/
+Idaho Falls, ID n/
  
 •	Migrated dashboards in Power BI, data engineering with STAR and Snowflake schemas
 •	Converted an ad hoc database into a STAR schema; dashboard now takes 18.36% less time to load and has 2 fewer redundant tables
 •	Transformed dashboard visuals and data structures of general reports into intuitive tools
 
 ### Teacher's Aid	
-*Parallelism and Concurrency - CSE 351	*
+*Parallelism and Concurrency - CSE 351*
 April 2024 - April 2025
 Rexburg, ID
 •	Graded 30 students' weekly assignments and provided individualized feedback
