@@ -26,8 +26,8 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
 ## Experience
 ### Programming Intern	
 *Wizard Quest*	
-April 2023 - Present
-Remote
+<p>April 2023 - Present</p>
+<p>Remote</p>
 •	Designed Postgres database and integrated it into a Godot project for mobile devices to save player data
 •	Created a button-based video player using raspberry-pi, python, and Linux
 •	Assembled and wired 2 hardware boxes for Wizard Quest to plug and play
@@ -44,8 +44,8 @@ Remote
 
 ### Teacher's Aid	
 *Parallelism and Concurrency - CSE 351*
-April 2024 - April 2025
-Rexburg, ID
+<p>April 2024 - April 2025</p>
+<p>Rexburg, ID</p>
 •	Graded 30 students' weekly assignments and provided individualized feedback
 •	Conducted weekly code reviews with students to identify and explain errors and guide towards solutions.
 
