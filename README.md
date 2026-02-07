@@ -34,9 +34,9 @@ Remote
 
  
 ### Data Analyst Intern
-*Idaho National Laboratories*n/
-May 2025 - July 2025 n/
-Idaho Falls, ID n/
+*Idaho National Laboratories*
+<p>May 2025 - July 2025</p>
+<p>Idaho Falls, ID </p>
  
 •	Migrated dashboards in Power BI, data engineering with STAR and Snowflake schemas
 •	Converted an ad hoc database into a STAR schema; dashboard now takes 18.36% less time to load and has 2 fewer redundant tables
