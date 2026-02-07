@@ -46,6 +46,7 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
 *Parallelism and Concurrency - CSE 351*
 <p>April 2024 - April 2025</p>
 <p>Rexburg, ID</p>
+
 •	Graded 30 students' weekly assignments and provided individualized feedback
 •	Conducted weekly code reviews with students to identify and explain errors and guide towards solutions.
 
