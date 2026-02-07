@@ -23,8 +23,8 @@ I'm Emma, a student at Brigham Young University-Idaho interested in computer sci
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
 
-### Experience
-#### Programming Intern	
+## Experience
+### Programming Intern	
 *Wizard Quest*	
 April 2023 - Present
 Remote
@@ -33,7 +33,7 @@ Remote
 •	Assembled and wired 2 hardware boxes for Wizard Quest to plug and play
 
  
-#### Data Analyst Intern
+### Data Analyst Intern
 *Idaho National Laboratories*
 May 2025 - July 2025
 Idaho Falls, ID
@@ -42,7 +42,7 @@ Idaho Falls, ID
 •	Converted an ad hoc database into a STAR schema; dashboard now takes 18.36% less time to load and has 2 fewer redundant tables
 •	Transformed dashboard visuals and data structures of general reports into intuitive tools
 
-#### Teacher's Aid	
+### Teacher's Aid	
 *Parallelism and Concurrency - CSE 351	*
 April 2024 - April 2025
 Rexburg, ID
