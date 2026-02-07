@@ -28,9 +28,9 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
 *Wizard Quest*	
 <p>April 2023 - Present</p>
 <p>Remote</p>
-•	Designed Postgres database and integrated it into a Godot project for mobile devices to save player data
-•	Created a button-based video player using raspberry-pi, python, and Linux
-•	Assembled and wired 2 hardware boxes for Wizard Quest to plug and play
+* Designed Postgres database and integrated it into a Godot project for mobile devices to save player data
+* Created a button-based video player using raspberry-pi, python, and Linux
+* Assembled and wired 2 hardware boxes for Wizard Quest to plug and play
 
  
 ### Data Analyst Intern
@@ -38,17 +38,17 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
 <p>May 2025 - July 2025</p>
 <p>Idaho Falls, ID </p>
  
-•	Migrated dashboards in Power BI, data engineering with STAR and Snowflake schemas
-•	Converted an ad hoc database into a STAR schema; dashboard now takes 18.36% less time to load and has 2 fewer redundant tables
-•	Transformed dashboard visuals and data structures of general reports into intuitive tools
+* Migrated dashboards in Power BI, data engineering with STAR and Snowflake schemas
+* Converted an ad hoc database into a STAR schema; dashboard now takes 18.36% less time to load and has 2 fewer redundant tables
+* Transformed dashboard visuals and data structures of general reports into intuitive tools
 
 ### Teacher's Aid	
 *Parallelism and Concurrency - CSE 351*
 <p>April 2024 - April 2025</p>
 <p>Rexburg, ID</p>
 
-•	Graded 30 students' weekly assignments and provided individualized feedback
-•	Conducted weekly code reviews with students to identify and explain errors and guide towards solutions.
+* Graded 30 students' weekly assignments and provided individualized feedback
+* Conducted weekly code reviews with students to identify and explain errors and guide towards solutions.
 
 
 
