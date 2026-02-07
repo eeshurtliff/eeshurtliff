@@ -18,7 +18,7 @@ I'm Emma, a student at Brigham Young University-Idaho interested in computer sci
 
 ## Let's Connect!
 
-- Here is my [LinkedIn]((https://www.linkedin.com/in/emma-shurtliff/) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/emma-shurtliff/) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
